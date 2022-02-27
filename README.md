@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoebusapollo21
 - 👀 I’m interested in ...programming and web developing
-- 🌱 I’m currently learning ...flutter
+- 🌱 I’m currently learning ...web development using php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
